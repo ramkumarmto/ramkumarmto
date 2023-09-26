@@ -4,9 +4,12 @@
 <h1 align="center">Hi 👋, I'm Ram Kumar Mahto</h1>
 <h3 align="center">Experience MERN Stack Developer, having Experience of Developing and Testing High Scaled robust Web and Mobile(Android and iOS) Applications.</h3>
 
+<img src="https://media1.giphy.com/media/26DoiqmYcxgFICb3G/200w.webp?cid=ecf05e47oyatzfp9vdblbkjlxk8hgj2own3g2mcl1qjtpr4q&ep=v1_gifs_search&rid=200w.webp&ct=g" alt=
+"Loading.." width="500" align="right" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkumarmto&label=Profile%20views&color=0e75b6&style=flat" alt="ramkumarmto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumarmto" alt="ramkumarmto" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
